@@ -16,10 +16,16 @@
 body {
     background-color: lightgray;
     font-family: sans-serif;
-    padding: 2%
+    padding: 2%;
+    text-align: center;
 }
 
 td {
     padding:1%;
     min-width:30%
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
 }
